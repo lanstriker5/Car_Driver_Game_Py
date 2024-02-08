@@ -12,18 +12,21 @@ Car Driver is a simple Pygame-based game where you control a player car to avoid
 ## How to Play
 
 1. Clone the repository to your local machine.
+
    ```bash
-   git clone https://github.com/your-username/car-driver-game.git```
+   git clone https://github.com/your-username/car-driver-game.git
 
-## Install the required dependencies.
+2. Navigate to the project directory.
+   
+   ```bash
+   cd car-driver-game
 
-  ```bash
-  pip install -r requirements.txt```
-  
-## Run the game
+3. Install the required dependencies.
+   
+   ```bash
+   pip install -r requirements.txt
 
-  ```bash
-  python car_driver_game.py```
+4. Run the game.
 
-## Controls
-  Use the left and right arrow keys to control the player car and avoid collisions.
+   ```bash
+   python car_driver_game.py
